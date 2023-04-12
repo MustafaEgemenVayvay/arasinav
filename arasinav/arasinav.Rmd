@@ -1,7 +1,7 @@
 ---
-title: "Çalışmanızın Başlığı"
+title: "Türkiye’de Yıllar ve İllere Göre Boşanma Sayılarının Seyri"
 author: 
-  - İsim Soyisim[^1]
+  - Mustafa Egemen Vayvay[^1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa-tr.csl
 header-includes:
@@ -32,35 +32,25 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== NOTLAR ================================= -->
 <!-- ======================================================================= -->
-[^1]: Öğrenci Numarası, [Github Repo](https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ)
+[^1]: 20080306, [Github Repo](https://github.com/MustafaEgemenVayvay/arasinav)
 
-# Vize Hakkında Önemli Bilgiler
 
-\colorbox{BurntOrange}{GITHUB REPO BAĞLANTINIZI BU DOSYANIN 35. SATIRINA YAZINIZ!}
-
-**Proje önerisi gönderimi, Github repo linki ile birlikte ekampus sistemine bir zip dosyası yüklenerek yapılacaktır. Sisteme zip dosyası yüklemezseniz ve Github repo linki vermezseniz ara sınav ve final sınavlarına girmemiş sayılırsınız.**
-
-**Proje klasörünüzü sıkıştırdıktan sonra (`YourStudentID.zip` dosyası) 16 Nisan 2023 23:59'a kadar *ekampus.ankara.edu.tr* adresine yüklemeniz gerekmektedir.**
-
-\colorbox{WildStrawberry}{Daha fazla bilgi için proje klasöründeki README.md dosyasını okuyunuz.}
 
 # Giriş
-Bu taslak size proje ödevinizi yazarken yardımcı olması amacıyla oluşturulmuştur. Ödevlerinizde, makalelerinizde, sunumlarınızda ve projelerinizde kullandığınız tüm bilgi kaynaklarına atıfta bulunmalısınız. Alıntı ve gönderme yapmak okuyuculara çalışmanızda kullandığınız/başvurduğunuz  kaynaklara ulaşma imkanı sağlar. **Her ne kadar kendi sözlerinizi kullanıyor olsanız da, başkalarına ait fikirleri çalışmanızda aktarıyorsanız bu fikirlerin kaynağını belgelemek zorundasınız. Aksi takdirde akademik intihal yapmış olursunuz.** Yazım konusunda @aydinonat:2007'ye başvurabilirsiniz. 
-
-
-Proje ödevinizde yer alan başlıkların bu metinde yer alan başlıkları kesinlikle içermesi gerekmektedir (doğal olarak ilk bölüm başlığı hariç). Burada kullanılan başlıklar haricinde farklı alt başlıklar da kullanabilirsiniz. Projenizi yazarken bu dosyayı taslak olarak kullanıp içeriğini projenize uyarlayınız.
+İnsan, iletişim kurma ve diğer insanlarla etkileşime girme ihtiyacı olan bir varlıktır. İnsanın yalnız yaşaması, doğası gereği hep zorlayıcı olmuştur. Çoğu insanın hayalinde bir yuva kurmak, evlenmek ve hayatını kendi kuracağı bir aile ortamında geçirmek vardır. Fakat en az bu durum kadar gerçek olan bir şey ise evliliğin her zaman için bu hayal kadar sorunsuz ve huzurlu olmayacağıdır. O yüzden her ne kadar görmezden gelmeye, hesaba katmamaya çalışsak bile boşanmak günümüzün önemli bir gerçeğidir. Boşanmalar, insanlar tarafından her zaman kötü bir şey ve olmaması gereken bir durum olarak kabul görmüştür. Fakat bazı durumlarda boşanmak yerine evli kalmak, her iki taraf için daha fazla hasara yol açabilmektedir. İnsan çok yönlü, kolay etkilenebilen ve duyguları olan bir varlıktır. Boşanmak her ne kadar iki insan arasında gibi görünse bile bunun altında yatan toplumsal konular, kişisel ve ulusal ekonominin durumu, kişinin eğitim durumu, insanın yaşadığı çevre, örf ve adetler, kültürel farklılıklar, insanları derinden etkileyen olağandışı olaylar gibi etkenler insanların düşüncelerinde, fikirlerinde ve duygularında ve boşanma kararı vermelerinde rol oynayıcı olabilirler. Bu çalışmamızda TÜİK’in yayınladığı 2022 İLLER BAZINDA BOŞANMALAR adlı veri setini kullanarak son yıllarda Türkiye’de iller bazında boşanma sayılarının yıllara göre nasıl seyir aldığını ve hangi durumlardan etkilenebileceğini gözlemleyip, analiz edeceğiz.
 
 ## Çalışmanın Amacı
-Bu bölümde yaptığınız çalışmanın amacından ve öneminden birkaç paragraf ile bahsediniz.
+2008-2022 yılları arasında Türkiye’de il bazında boşanma sayılarının nasıl bir seyir gösterdiğini, boşanma sayılarındaki artış ve azalışların bölgesel olarak etkilenip etkilenmediğini, yıllar içerisinde yaşanmış ve tüm ülkeyi ilgilendiren önemli olayların boşanma sayılarında nasıl bir etkiye sahip olduğunu, salgın hastalıklar gibi olağan dışı durumların ve ulusal ekonominin gidişatının boşanma sayılarında nasıl bir etkiye yol açtığını gözlemlemek ve boşanma sayılarının nüfus artışıyla olan ilişkisini istatistiksel veriler ile açıklamak amaçlanmaktadır.
 
 ## Literatür 
-Bu bölümde konu ile ilgili olarak okuduğunuz makaleleri referans vererek tartışınız. **Her makaleyi ayrı başlık altında tek tek özetlemeyiniz.** Literatür taramasında **en az dört** makaleye atıf yapılması ve bu makalelerden **en az ikisinin İngilizce** olması gerekmektedir.
 
+  Türkiye, diğer çoğu ülkeye paralel olarak, değişen demografik ve aile yapısıyla boşanmaların artık önemli bir konu haline geldiği bir ülke olmuştur. Ülkemizde boşanmalar yıllar içerisinde değişiklik göstermiştir ve hala göstermektedir. Aile ve onu etkileyen faktörler her ne kadar kısıtlı olarak görünse, aile dediğimiz kurum birkaç insandan oluşan bir grup olsa bile, toplumdan ve ülke çapındaki konulardan sanılandan daha fazla etkilenen bir kurumdur. Türkiye’deki boşanmalar için başlıca sebep geçimsizlik olarak görülmektedir. Bölgesel olarak boşanmalardaki sayılarda değişmelere sahip olan Türkiye’de kent yaşamına geçmek, gelişmişlik düzeyi, eğitim düzeyi, kişisel ekonomik durum gibi etkenler boşanma sayılarını etkileyen diğer etkenlerden sayılabilir.[@yildirim2004turkiye]
+Toplumun aile yapısını etkilediği ve şekillendirdiği gibi aile yapısı ve içinde yaşanan değişikliklerde, toplumu etkileyen faktörlerin başında gelir. Aile içinde sorunlar olan ve bu sayı gitgide artan toplumlarda, ulusal çaplı sorunlar, toplumsal anlayışsızlık ve toplumun büyük bölümünde psikolojik rahatsızlık gibi sorunların sıklığı artar. Toplumsal etkilerin yanı sıra en büyük boşanma sebeplerinden diğerleri; zina, şiddet, alkol kullanımı, hakaret ve sevgisizlik gibi bireysel problemlerden kaynaklanmaktadır ve bu problemlerin dillendirilmesi kentleşmiş alanlarda daha fazla olduğundan dolayı kentsel alanlardaki boşanma sayılarının yüksekliğine ek bir sebep olmaktadır.  Türkiye’de evlenmelerin arttığı gibi boşanmalar da artış göstermektedir ve Türkiye’de boşanmaların 2/5’lik kısmı, evliliğin ilk 5 yılında gerçekleşmektedir. [@demir2013attitudes]
+Türkiye’de yaklaşık son 25 senelik zaman dilimine baktığımızda aile kavramı için en büyük sorunu oluşturan etken boşanmalardır. Türkiye, boşanma olgusu bakımından çok hızlı değişikliklerin yaşandığı ve bölgesel farkların çok fazla olduğu bir ülkedir. İstatistiksel verilere baktığımızda, boşanma sayılarının en fazla olduğu bölge, Ege bölgesi olarak karşımıza çıkarken, en az boşanma sayılarına sahip bölgelerin Doğu Anadolu ve Güneydoğu Anadolu oldukları gözlemlenmektedir. Çiftler arasında bir sorun olmamasına rağmen görücü usulü evliliklerin olduğu bölgelerde birbirlerini yeteri kadar tanıyamamış çiftlerin evliliğin ilerleyen zamanlarında ilişkilerine son verdikleri görülmektedir. Kentleşmenin ve eğitim durumunun etkisinin fazla olduğu boşanma sayılarında zirvede en büyük şehirlerimizden olan İstanbul, Ankara ve İzmir gelmektedir. Boşanmış kişilere en az rastlanan bölgelerimiz ise Kuzeydoğu Anadolu, Doğu Karadeniz, Güneydoğu Anadolu ve Ortadoğu Anadolu gibi genel olarak doğu bölgemizdir.[@bacskaya2017turkiye] 
+Türkiye, diğer gelişmiş ülkelere ve batılı devletlere oranla demografik ve aile yapısı iyi belgelenmiş bir ülke değildir. Hala geleneksel aile yapısının benimsendiği kabul edilen Türkiye’de son yıllarda aile yapısı önemli ölçüde değişmiştir. Evliliğin daha ileri yaşlarda yapıldığı ve boşanmalarda artış olduğu görülmektedir. 2001 yılında Türk Medeni Kanunu’nda yapılan değişiklikler sonucu kadınlara verilen hakların genişlemesi boşanma sayılarını etkileyen bir etken olmuştur. Türkiye, pek rastlanılmayan bir şekilde ülke içinde bölgesel olarak ekonomik ve gelişmişlik düzeyinin çok farklı olabildiği bir ülkedir. Kadınların çalışma hayatına daha fazla katıldığı, ekonomik özgürlüklerinin daha fazla olduğu ve kentleşmenin fazla olduğu Türkiye’nin batı bölgesinde, boşanma sayılarında bir artış yaşanırken, Türkiye’nin doğu bölgesinde ise kadın çalışma oranlarının düşük ve ekonomik özgürlüklerinin az olması eşine daha bağımlı hale gelmesine yol açarak boşanma konusunda daha cesur olamamasına ve doğal olarak boşanma sayılarının batıya oranla düşük olmasına sebep vermektedir. [@caarls2015regional]
 
-**_Taslakta bu cümleden sonra yer alan hiçbir şey silinmemelidir._**
 
 \newpage
 # Kaynakça {#references}
 <div id="refs"></div>
-
 
